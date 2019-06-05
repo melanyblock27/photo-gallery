@@ -1,0 +1,16 @@
+h1 {
+font-family: 'Open Sans', sans-serif;
+border: double;
+text-align: center;
+display: flex;
+display: inline-block;
+}
+img {
+  height: 300px;
+  width: 250px;
+  object-fit: contain;
+  border-radius: 85px;
+}
+body {
+  background-color: #6E85A3;
+}
